@@ -1,0 +1,6 @@
+a[href^= "https"]{ 
+    color: red;
+}
+a[href^="#"]{
+    color: green
+}
